@@ -25,9 +25,10 @@ Our Client has asked us to take an existing UFO website that performs searches b
 
 ### How to perform Searches
 
-1. You can search for all values or a single attribute based on the filter panel from the website. To use the filter panel, have a look at the full data on the right of the panel and enter an appropriate value in each filter as required. 
+1. You can search for all values or a single attribute based on the filter panel from the website. To use the filter panel, have a look at the full data on the right of the panel and enter an appropriate value in each filter as your search requires. 
 2. Once all filter values have been entered, hit the "Enter" key on your keyboard to execute a search on the UFO data and have the updated results displayed to the right. 
-3. Below you can see an example where values are entered for 'state = ca and country = us', this is outline with the yellow box, and the filtered search of values is displayed to the right.
+
+- Below you can see an example where values are entered for 'state = ca and country = us', this is outlined with the yellow box and the filtered search of values is displayed to the right.
 
 ![Website](static/images/filter1.png)
 
