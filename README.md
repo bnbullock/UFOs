@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Our Client has asked us to take an existing UFO website that performs searches based on a single criteria and expand it to filter on multiple criteria. This requires that we redesign the filter panel by adding four additional attributes to filter on the UFO data. The searches will be based on an "inclusive-and" where only those filters that have a value will be part of the result. We would like to expand on the website features by adding additional filters and this project will help us to complete this task.
+Our Client has asked us to take an existing UFO website that performs searches based on a single criteria and expand it to filter on multiple criteria. This requires that we redesign the filter panel by adding four additional attributes to filter on the UFO data. The searches will be based on an "inclusive-and" where only those filters that have a value will be part of the result. This project will allow us to expand on the website features by adding additional filters and providing users with an expanded abilty to perform more granular searches on reported UFO sightings.
 
 - Deliverables:
   1. Design a new panel with multiple attribue filtering
@@ -18,8 +18,8 @@ Our Client has asked us to take an existing UFO website that performs searches b
 
 ## Results
 
-- As you can see from the screen capture below we were able to inclease the filtering panel to 5 attributes. Each attribute allows for more granular drill down of the data to meet all filters entered. By default there are 'placeholder' values shown for each attribute that allows the website user to clearly understand what needs to be entered for each filter.
-- 
+- As you can see from the screen capture below we were able to increase the filtering panel to 5 attributes as requested by the client. Each attribute allows for more granular drill down of the data by executing the filtered search of each filter entered. By default there are 'placeholder' values shown for each attribute that allows the website user to clearly understand what needs to be entered for each filter.
+
 ![Website](/static/images/panel2.png)
 
 ### How to perform Searches
