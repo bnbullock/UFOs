@@ -12,7 +12,8 @@ Our Client has asked us to take an existing UFO website that performs searches b
 ------------------------------------------------------------------------------------------------------------
 
 ## Resources
-- Software: Visual Studio Code 1.56.2, Javascript Shell inside VS Code, Chrome Browser
+- Software: Visual Studio Code 1.56.2, Javascript Shell inside VS Code
+- Browser : Google Chrome v91.0.4472.124 
 - Libraries: Bootstrap v4.0, d3 v4.11.0 
 ------------------------------------------------------------------------------------------------------------
 
