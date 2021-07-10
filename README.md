@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Our Client has asked us to take an existing UFO website that performs searches based on a single criteria and expand it to filter on multiple criteria. This requires that we redesign the filter panel by adding four additional attributes to filter on the UFO data. The searches will be based on an "inclusive-and" where only those filters that have a value will be part of the result. This project will allow us to expand on the website features by adding additional filters and providing users with an expanded abilty to perform more granular searches on reported UFO sightings.
+Our Client has asked us to take an existing UFO website that performs searches based on a single criteria and expand it to filter on multiple criteria. This requires that we redesign the filter panel by adding four additional attributes to filter on the UFO sightings data. The searches will be based on an "inclusive-and" where only those filters that have a value will be part of the result. This project will allow us to expand on the website features by adding additional filters and providing users with an expanded abilty to perform more granular searches on reported UFO sightings.
 
 - Deliverables:
   1. Design a new panel with multiple attribute filtering
@@ -12,7 +12,7 @@ Our Client has asked us to take an existing UFO website that performs searches b
 ------------------------------------------------------------------------------------------------------------
 
 ## Resources
-- Software: Visual Studio Code 1.56.2, Javascript Shell inside VS Code
+- Software: Visual Studio Code 1.56.2, JavaScript shell inside VS Code
 - Browser : Google Chrome v91.0.4472.124 
 - Libraries: Bootstrap v4.0, d3 v4.11.0 
 ------------------------------------------------------------------------------------------------------------
