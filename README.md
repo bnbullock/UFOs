@@ -6,9 +6,9 @@
 Our Client has asked us to take an existing UFO website that performs searches based on a single criteria and expand it to filter on multiple criteria. This requires that we redesign the filter panel by adding four additional attributes to filter on the UFO data. The searches will be based on an "inclusive-and" where only those filters that have a value will be part of the result. This project will allow us to expand on the website features by adding additional filters and providing users with an expanded abilty to perform more granular searches on reported UFO sightings.
 
 - Deliverables:
-  1. Design a new panel with multiple attribue filtering
-  2. Analysis and Explanation
-  3. Recommendations for future changes
+  1. Design a new panel with multiple attribute filtering
+  2. Analysis and User documentation
+  3. Summary and Recommendations for future changes
 ------------------------------------------------------------------------------------------------------------
 
 ## Resources
