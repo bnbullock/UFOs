@@ -46,5 +46,5 @@ Our Client has asked us to take an existing UFO website that performs searches b
 ### Recommendations for website
 
   1. Add a button to the filter panel, perhaps near the "Filter Search" label that will reload the table data allowing for a new filtering action to start.
-  2. Based on the filtered data, it would be great to be able to chart the results by date and location.
+  2. Based on the filtered data result, it would be great to be able to chart/graph the result for a visual representation.
   3. A submit button would also be beneficial to be able to use the mouse to execute a filtered search.
