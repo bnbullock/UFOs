@@ -38,7 +38,7 @@ Our Client has asked us to take an existing UFO website that performs searches b
 
 - The display results have generally met the deliverables and the site performed as expected. We can filter on one item up to and including 5 items as shown above. Recommendations of additional features are made below based on meeting the deliverables requested by the client. Additional filterers and features can be added using the framework encompassed in this design to improve the site further.
 
-### Drawback
+### Drawbacks
 
   1. Once we have performed a filtering action the data remains as shown and the only way to reset the table data is to refresh the screen.
   2. It would be advisible to remove the placeholder values once a filtered search has been completed. The placeholder values remaining on the filters "not" used is a bit misleading when looking at the results.
