@@ -36,15 +36,15 @@ Our Client has asked us to take an existing UFO website that performs searches b
 
 ## Summary Analysis
 
-- The display results have generally met the deliverables and the site performed as expected. We can filter on one item up to and including 5 items as shown above. Recommendations of additional features are made below based on meeting the deliverables requested by the client. Additional filterers and features can be added using the framework encompassed in this design to improve the site further.
+- The display results have generally met the deliverables and the website panel filtering performed as expected with valid data being returned for a given filtered search. We can filter on one item up to and including 5 items as shown above. Recommendations of additional features are made below based on meeting the deliverables requested by the client. Additional filters and features can be added using the framework encompassed in this design to improve the site further. 
 
 ### Drawbacks
 
-  1. Once we have performed a filtering action the data remains as shown and the only way to reset the table data is to refresh the screen.
-  2. It would be advisible to remove the placeholder values once a filtered search has been completed. The placeholder values remaining on the filters "not" used is a bit misleading when looking at the results.
+  1. Once we have performed a filtering action the data remains as shown and the only way to reload the table data and perform a new search is to refresh the screen.
+  2. It would be advisible to remove the placeholder values once a filtered search has been completed. The placeholder values are visible on the filter panel and look as though they were part of the filtered search, which can be a bit misleading when looking at the results.
 
 ### Recommendations for website
 
   1. Add a button to the filter panel, perhaps near the "Filter Search" label that will reload the table data allowing for a new filtering action to start.
-  2. Based on the filtered data result, it would be great to be able to chart/graph the result for a visual representation.
+  2. Based on the filtered data result, it would be great to be able to chart/graph the result for a visual representation of the data.
   3. A submit button would also be beneficial to be able to use the mouse to execute a filtered search.
